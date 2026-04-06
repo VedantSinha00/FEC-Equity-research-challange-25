@@ -1,40 +1,42 @@
 # Equity Research Challenge — Finalist | Udgam 2025
 
-**Competition:** Equity Research Challenge, organized by the Finance and Economics Club (FEC), IIT Guwahati  
-**Event:** Udgam 2025  
-**Result:** Finalist — Top 5 out of ~1,200 participants  
-**Team:** Just In Time — Vedant Sinha, Disha Gokhale, Pulkit Garg, Gaurang Palekar
+🏆 **Achievement:** Finalist (Top 5) out of ~1,200 participants  
+🏢 **Organizer:** Finance and Economics Club (FEC), IIT Guwahati  
+📅 **Event:** Udgam 2025  
+🤝 **Team:** Just In Time (Vedant Sinha, Disha Gokhale, Pulkit Garg, Gaurang Palekar)
 
 ---
 
-## The Challenge
+## 📊 Project Overview
+This repository contains our comprehensive equity research on the **Indian E-commerce Sector**. Our team conducted deep-dive qualitative and quantitative analyses of industry leaders to identify the strongest investment opportunities.
 
-Participants were given the Indian e-commerce sector as the domain and asked to:
-
-- Conduct a full industry analysis (PESTEL, competitive landscape, growth drivers)
-- Shortlist listed e-commerce stocks based on defined screening criteria
-- Produce a comprehensive equity research report with valuation analysis
-- Arrive at a final investment recommendation
-
-Evaluation was weighted heavily toward the equity report (65%), with industry analysis (30%) and presentation design (5%) making up the rest.
-
----
-
-## Our Approach
-
-We analyzed three major listed Indian e-commerce players — **Nykaa, Zomato, and IndiaMART** — across qualitative and quantitative dimensions.
-
-Our investment thesis landed on **IndiaMART** as the strongest BUY candidate, based on:
-
-- Dominant position in Indian B2B e-commerce (~60% market share in online B2B classified)
-- Asset-light, subscription-driven model with low debt (₹38.4 Cr vs peers at ₹1,000+ Cr)
-- Consistent ROCE of ~22% over 3 years and virtually debt-free balance sheet
-- Revenue growth from ₹2.4B (FY2016) to ₹12B (FY2024)
-- DCF-implied intrinsic share price of **₹1,412.57** at WACC of 11.3% and 18% terminal growth rate
-
+### 🎯 The Challenge
+Participants were tasked with:
+- **Industry Analysis:** PESTEL framework, competitive landscape, and growth drivers.
+- **Stock Screening:** Shortlisting players based on financial and operational metrics.
+- **Valuation:** Detailed Equity Research Reports focusing on valuation accuracy.
+- **Recommendation:** Providing a clear, data-backed investment thesis.
 
 ---
 
-## Key Frameworks Used
+## 📈 Our Investment Thesis: BUY IndiaMART
+After analyzing **Nykaa**, **Zomato**, and **IndiaMART**, our team identified IndiaMART as the strongest candidate for a long-term BUY.
 
-Industry analysis used PESTEL and competitive landscape mapping. Company analysis used DCF (discounted cash flow), peer comparison across P/E, ROCE, ROE, EPS, and debt metrics, and a sensitivity table across WACC and growth rate scenarios.
+**Key Highlights:**
+- **Market Dominance:** ~60% market share in the Indian online B2B classifieds space.
+- **Financial Strength:** Asset-light, subscription-based model with a virtually debt-free balance sheet (₹38.4 Cr vs peers at ₹1,000+ Cr).
+- **Efficiency:** Consistent ROCE of ~22% over a 3-year period.
+- **Intrinsic Value:** DCF-implied price of **₹1,412.57** (WACC: 11.3%, Terminal Growth: 18%).
+
+---
+
+## 📂 Repository Structure
+- 📁 [**Presentation**](./Presentation/): Contains our final pitch deck (PDF).
+- 📁 [**Certification**](./Certification/): Official Finalist Certificate from FEC IIT Guwahati.
+- 📁 **Analysis Frameworks:** Detailed PESTEL, Peer Comparison (P/E, ROCE, ROE, EPS, Debt), and Sensitivity Tables.
+
+## 🛠️ Frameworks & Methods Used
+- **Valuation:** Discounted Cash Flow (DCF).
+- **Macro Analysis:** PESTEL Framework.
+- **Comparative Analysis:** Peer-to-peer metric benchmarking.
+- **Risk Assessment:** Sensitivity Analysis (WACC vs. Growth Rate Scenarios).
